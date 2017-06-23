@@ -1,0 +1,42 @@
+<HTML> 
+<HEAD> 
+<TITLE>Kurt J Paumen</TITLE> 
+</HEAD> 
+<BODY BGCOLOR=”#FFFFFF”> 
+<H1>Kurt Paumen</H1> 
+<TABLE WIDTH=”100%”> 
+<TF><TD ALIGN=”left”>912 10th ST</TD> 
+<TD ALIGN=”right”>Residence (320)309-5324</TD></TR> 
+<TF><TD ALIGN=”left”>Rice, MN 56367</TD> 
+
+</TD></TR> 
+<TD ALIGN=”right”>Email: kurt.paumen@gmail.com</TD></TR> 
+<H2>Objective</H2> 
+<TABLE><TR><TD>&nbsp;</TD> 
+<TD>Java Script, Ruby, and Python applications.</TD></TR></TABLE> 
+<H2>Professional Experience</H2> 
+<H3>August 2016 to Present</H3> 
+<TABLE><TR><TD>&nbsp;</TD> 
+<TD>Took and graduated all codeacademy courses<BR> 
+Enrolled in Prime Digital Academy<UL> 
+<LI>To code Front End Java Script at the highest level</LI> 
+<LI>Also to code HTML5 , along with Ruby</LI></UL></TD></TR></TABLE> 
+<H3>January 1st 2017 to Present</H3> 
+<TABLE><TR><TD>&nbsp;</TD> 
+<TD>Self Employed<BR> 
+Started a Company where I fix , install, demo, mow and consultk<UL><LI> 
+Currently taking on various remodeling jobs, trouble shooting peoples problems and fixing them.</LI> 
+<LI>Completed over 20 various jobs to present.</LI></UL></TD></TR></TABLE> 
+<H2>Cedar Lake Engineering</H2> 
+<H3>May 17 to Present</H3> 
+<UL><LI>Stamping and engineering medal parts for kubota tractors.</LI> 
+ 
+<H2>Education</H2> 
+<TABLE><TR><TD>&nbsp;</TD> 
+<TD>Bachelor of Science Health Fitness Specialist — December 2012
+<BR>Minnesota School Of Business<BR> 
+GPA: 3.5</TD></TR></TABLE> 
+<H2>Various acolades</H2> 
+<TABLE><TR><TD>&nbsp;</TD> 
+<TD>Army Vet, I love to solve problems, Volunteer for people with disabilities, and I care.</TD></TR></TABLE></BODY> 
+</HTML>
